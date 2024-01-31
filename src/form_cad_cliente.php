@@ -26,9 +26,9 @@
             <div class="form-group">
                 <label for="inst">Instituição:</label>            
                 <select class="form-control" name="inst" id="inst">
-                    <option value="liveD">live Dendezeiros</option>
-                    <option value="liveCim">live Cimatec</option>
-                    <option value="liveCet">live Cetind</option>
+                    <option value="liveD">live Levi1</option>
+                    <option value="liveCim">live Levi2</option>
+                    <option value="liveCet">live Levi3</option>
                 </select>
             </div>            
             <div class="form-group">
